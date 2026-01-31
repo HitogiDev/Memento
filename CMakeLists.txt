@@ -6,7 +6,7 @@ endif()
 
 project(
 	Memento
-	VERSION 1.7.1
+	VERSION 1.7.2
 	DESCRIPTION "An mpv-based video player for studying Japanese"
 	HOMEPAGE_URL "https://ripose-jp.github.io/Memento"
 	LANGUAGES CXX C
